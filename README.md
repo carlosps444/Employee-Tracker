@@ -17,6 +17,8 @@
   
   
   ## Usage Instructions:
+  video: https://drive.google.com/file/d/1fDS2ooWPtSjcN-m5ubYvq_TsOAYMolAN/view
+  
   
   
   ## Contribution Guidelines:
